@@ -137,7 +137,7 @@ public class TextUI {
     	
     }
 
-    private void quit() {
+    private void quit(){
         sc.close();
         System.exit(0);
     };
